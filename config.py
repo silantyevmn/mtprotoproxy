@@ -2,7 +2,7 @@ PORT = 443
 
 # name -> secret (32 hex chars)
 USERS = {
-    "tg":  "ee473ce5d4958eb5f968c87680a23854a0676f6f676c652e636f6d",
+    "tg":  "3f7a9b2c8d1e4f6a5b0c9d8e7f2a1b3c",
     # "tg2": "0123456789abcdef0123456789abcdef",
 }
 
